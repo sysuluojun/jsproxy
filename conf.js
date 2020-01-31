@@ -40,7 +40,7 @@ jsproxy_config({
    * 默认节点
    */
   node_default: 'mysite',
-  // node_default: /github\.io$/.test(location.host) ? 'cf' : 'mysite',
+  // node_default: /github\.io$/.test(location.host) ? 'demo-cf' : 'mysite',
 
   /**
    * 加速节点
